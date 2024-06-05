@@ -1,0 +1,52 @@
+{
+	"iphone" :[ 
+		{
+			"image": "products/01.jpg",
+			"title": "iphone 11",
+			"description": "Apple iPhone 11 - 64GB - Zwart ",
+			"price": "279"
+		},
+		{
+			"image": "products/02.jpg",
+			"title": "iPhone 12 ",
+			"description": "Apple iPhone 12 - 64GB - Zwart",
+			"price": "549"
+		},
+		{
+			"image": "products/03.jpg",
+			"title": "iPhone 10",
+			"description": "Apple iPhone 10 - 64GB - Zwart",
+			"price": "124"
+		},
+		{
+			"image": "products/04.jpg",
+			"title": "MSI ",
+			"description": "MSI Thin GF63 12UCX-668NL - Gaming Laptop - 15.6 inch - 144Hz.",
+			"price": "699"
+		},
+		{
+			"image": "products/05.jpg",
+			"title": "Lenovo ",
+			"description": "Lenovo IdeaPad Slim 3 Chromebook 14M868- 14 inch - Touchscreen",
+			"price": "300"
+		},
+		{
+			"image": "products/06.jpg",
+			"title": "Lenovo ",
+			"description": "Lenovo IdeaPad 1 15AMN7 82VG00HVMH - Laptop - 15.6 inch.",
+			"price": "489"
+		},
+		{
+			"image": "products/09.jpg",
+			"title": "Lenovo  ",
+			"description": "Lenovo IdeaPad 3 15ALC6 82KU024MMH - Laptop - 15.6 inch.",
+			"price": "629"
+		},
+		{
+			"image": "products/08.jpg",
+			"title": "ASUS   ",
+			"description": "ASUS TUF F15 FX507ZC4-HN216W - Gaming Laptop - 15.6 inch - 144Hz.",
+			"price": "799"
+		}
+	]
+}

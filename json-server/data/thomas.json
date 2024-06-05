@@ -1,0 +1,154 @@
+{
+	"games": [
+		{
+			"img": "/thomas/games/rdr2.jpg",
+			"text": "Red Dead Redemption 2",
+			"description": "",
+			"price": "60"
+		},
+		{
+			"img": "/thomas/games/helldivers.jpg",
+			"text": "Helldivers 2",
+			"description": "",
+			"price": "40"
+		},
+		{
+			"img": "/thomas/games/gta5.jpg",
+			"text": "Grand Theft Auto 5",
+			"description": "",
+			"price": "50"
+		},
+		{
+			"img": "/thomas/games/forhonor.jpg",
+			"text": "For honor",
+			"description": "",
+			"price": "35"
+		},
+		{
+			"img": "/thomas/games/cyberpunk.jpg",
+			"text": "Cyberpunk 2077",
+			"description": "",
+			"price": "60"
+		},
+		{
+			"img": "/thomas/games/baldurgate.jpg",
+			"text": "Baldurs gate 3",
+			"description": "",
+			"price": "60"
+		}
+	],
+	"games2": [
+		{
+			"img": "https://azerty.nl/media/catalog/product/u/8/u8eTK0.5188648_8201dedda1ddfaf29115167c1af8a2d5-985472ec_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Xenith Extreme iCUE Powered By ASUS - AMD Ryzen 7 7800X3D",
+			"description": "ASUS TUF Radeon RX 7900 XTX - 32 GB DDR5 - 2 TB ssd - Windows 11 Home",
+			"price": "2.649,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/D/T/DTthXh.4971104_8201dedda1ddfaf29115167c1af8a2d5-d9e7707f_2_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Azerty Xenith Essential Dark - AMD Ryzen 5 5600",
+			"description": "GeForce RTX 4060 - 16 GB DDR4 - 1 TB ssd - Windows 11 Home",
+			"price": "999,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/p/r/prHXiU.5416581_8201dedda1ddfaf29115167c1af8a2d5-ff7eb265_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Azerty Xenith Expert Stealth Snow - Ryzen 7 7800X3D",
+			"description": "GeForce RTX 4070 Stealth - 32 GB DDR5 - 2 TB ssd - Windows 11 Home",
+			"price": "1.999,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/R/r/RroFBL.5712236_28b258ebc92471ea6b033ab608223c3b-f01456e0_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg",
+			"text": "Xenith Extreme Silent Super - AMD Ryzen 9 7900X ",
+			"description": "GeForce RTX 4080 Super - 32 GB DDR5 - 2 TB ssd - Windows 11 Pro",
+			"price": "2.799,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/G/Z/GZjuSy.5515340_8201dedda1ddfaf29115167c1af8a2d5-8d18596a_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Xenith Epic Snow Powered By ASUS - Intel Core i9-14900K",
+			"description": "ASUS ROG Strix GeForce RTX 4090 OC - 64 GB DDR5 - 4 TB WD ssd - Windows 11 Pro",
+			"price": "5.399,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/l/T/lTgneW.5849308_8201dedda1ddfaf29115167c1af8a2d5-00ea517e_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Xenith Expert ProArt Super Powered By ASUS - AMD Ryzen 9 7900X3D",
+			"description": "ASUS ProArt GeForce RTX 4070 Ti Super OC - 32 GB DDR5 - 2 TB ssd - Windows 11 Pro",
+			"price": "2.649,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/B/Y/BYO9ts.5305749_8201dedda1ddfaf29115167c1af8a2d5-fb88db8c_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Azerty Xenith Epic Snow iCUE - Intel Core i9-14900KF",
+			"description": "GeForce RTX 4090 OC - 64 GB DDR5 - 4 TB ssd - Windows 11 Pro - wit",
+			"price": "4.499,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/N/P/NPotUC.5019409_e0a67c8c63f8f7362917abef6ca24c6b-43a532e3_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Azerty Xenith Epic iCUE AMD - AMD Ryzen 9 7950X3D",
+			"description": "GeForce RTX 4090 OC - 64 GB DDR5 - 4 TB ssd - Windows 11 Pro",
+			"price": "4.599,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/A/l/AlxgmF.5811022_8201dedda1ddfaf29115167c1af8a2d5-60705706.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Azerty Xenith Essential Base - AMD Ryzen 5 5600GT",
+			"description": "Radeon RX Vega 7 - 16 GB DDR4 - 1 TB ssd - Windows 11 Home",
+			"price": "719,00"
+			
+		}
+	],
+	"games3": [
+		{
+			"img": "https://azerty.nl/media/catalog/product/1/6/163D2u.3680749_6ba93060de3367f2dee27690ebdd7a39-82b94d87_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "SteelSeries Arctis 7+ - Headset",
+			"description": "voor gaming - draadloos - voor PS5, PS4, PC, Nintendo Switch, Android - Zwart",
+			"price": "145,95"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/W/P/WPYtCW.3e333791bf62edee8b3fbd8772a5aaad-b7771624_3.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Steelseries Arctis 9X - Hoofdtelefoon",
+			"description": "met microfoon voor gaming - voor PC/Xbox - over het oor - draadloos - 7.1 kanaals - 32 Ohm - 98 dB - zwart",
+			"price": "145,05"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/1/6/163D2u.3680749_6ba93060de3367f2dee27690ebdd7a39-82b94d87_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "SteelSeries Arctis 7+ - Headset",
+			"description": "voor gaming - draadloos - voor PS5, PS4, PC, Nintendo Switch, Android - Zwart",
+			"price": "145,95"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/y/O/yOOZaV.88b45c75a29b62c5bb493565e9754f7c-217c0b2f_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "SteelSeries Arctis Nova Pro Bedraad - PS5/PC",
+			"description": "Headset - voor Gaming - AI Noice cancelling microfoon - met bekabeling - Zwart",
+			"price": "253,90"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/x/s/xsNd7k.2746784_b2fe440cb7a0b127f1a90ffea296313b-64c01890_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg",
+			"text": "SteelSeries Arctis Pro + GAMEDAC - Hoofdtelefoon",
+			"description": "met microfoon - gaming headset - PC/PS4 Box - wit",
+			"price": "237,58"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/A/X/AXGKai.ebe2bee537a14feab047800176aaadc8-7d305f64_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "Steelseries Arctis Nova 1 - Koptelefoon",
+			"description": "bedraad - zwart",
+			"price": "319,00"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/M/I/MIQdsA.2513425_8ddf878039b70767c4a5bcf4f0c4f65e-c671114e.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg",
+			"text": "SteelSeries Arctis Pro Wireless - Hoofdtelefoon",
+			"description": "Draadloos - 2.4G, Bluetooth - zwart",
+			"price": "214,19"
+		},
+		{
+			"img": "https://azerty.nl/media/catalog/product/u/Y/uYdWBy.10fc211b5362e529d06e65aa96cd69f3-afb68fa5_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "SteelSeries 5H v2 - Koptelefoon ",
+			"description": "over oor",
+			"price": "34,38"
+		},
+
+        {
+			"img": "https://azerty.nl/media/catalog/product/v/B/vBxkYN.18833b01b66bf5656b10381e8c242186-9a107941.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"text": "SteelSeries Arctis Nova Pro Bedraad - PS5/PC/Xbox",
+			"description": "Headset - voor Gaming - AI Noice cancelling microfoon - met bekabeling - Zwart",
+			"price": "276,04"
+		}
+	]
+}

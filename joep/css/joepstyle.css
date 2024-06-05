@@ -1,0 +1,172 @@
+:root {
+  --primary: #f5f5f5;
+  --dark: #805555;
+  --light: #fff;
+  --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+}
+
+html {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--dark);
+}
+
+body {
+  background: white;
+}
+
+.int {
+  text-align: left;
+  color: black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 700px;
+  font-size: 20px;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 20px;
+}
+
+/* Navigation */
+.nav-col {
+  background-color: rgb(4, 86, 148);
+}
+
+.main-nav ul {
+  display: grid;
+  grid-gap: 20px;
+  padding: 0;
+  list-style: none;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.main-nav a {
+  color: #fff4e3;
+  text-decoration: solid;
+  display: block;
+  text-align: center;
+  font-size: 35px;
+}
+
+.main-nav p {
+  text-decoration: solid;
+  display: block;
+  text-align: center;
+  font-size: 35px;
+}
+
+.main-nav a:hover {
+  color: white;
+}
+.background-intro {
+  background-color: #3e628f;
+  position: relative;
+  width: 900px;
+  height: 515px;
+}
+/* intro photo */
+.start-photo {
+  
+  position: absolute;
+  top: 110px;
+  left: 900px;
+  height: 515px;
+  width: 995px;
+}
+/* all the webshops */
+.catolog {
+  top: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.item {
+  text-align: center;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 10px;
+}
+
+.prem {
+  color: #f5f5f5;
+  background-image: linear-gradient(to top left, #04f0f9, #00ff8b);
+}
+
+.img-prem {
+  max-width: 335px;
+}
+
+.ere {
+  color: #f5f5f5;
+  background-color: #37003c;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.img-ere {
+  max-width: 220px;
+}
+.img-ser {
+  max-height: 220px;
+}
+.ser {
+  color: #f5f5f5;
+  background-color: rgb(22, 29, 140);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+.ser:hover{
+  color: #EC1846;
+}
+.cat-text {
+  text-decoration: solid;
+  text-decoration-line: none;
+  color: white;
+  padding: 10px;
+}
+.item1:hover {
+  cursor: pointer;
+}
+/* the media queries */
+@media screen and (max-width: 600px){
+  
+.wrapper{
+  display: grid;
+
+}
+  
+  .main-nav ul{
+    grid-template-columns: repeat(1,1fr);
+  }
+  .int {
+    
+    text-align: left;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: fit-content;
+  }
+  .start-photo {  
+    position: sticky;
+    top: 0;
+    left: 0px;
+    height: 300px;
+    width: fit-content;
+  }
+  .catolog {
+    top: 0;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    align-items: center;
+    width: 100%;
+  }
+  .background-intro{
+    position: relative;
+    width: fit-content;
+  }
+  .background-intro{
+    width: fit-content;
+    height: fit-content ;
+  }
+}

@@ -1,0 +1,135 @@
+{
+    "one": 
+        [
+            {
+                "image": "products/ars.jpg",
+                "title": "Arsenal kit",
+                "description": "Arsenal's officiële kit: rood en wit, erfgoed en innovatie verenigd. Toon jouw steun met trots. Gunners voor het leven.",
+                "price": "€94.99"
+        
+            },
+            {
+                "image": "products/che.jpg",
+                "title": "chelsea kit",
+                "description": "Chelsea's officiële kit: een symbool van blauwe passie. Draag de kleuren van de Blues met trots. Chelsea FC, voor altijd in hart en ziel.",
+                "price": "€94.99"
+                
+            },
+            {
+                "image": "products/liv.jpg",
+                "title": "Liverpool kit",
+                "description": "Liverpool's iconische kit: rood met passie, geschiedenis en glorie. Draag de Reds met trots. Liverpool FC, een legende op en naast het veld.",
+                "price": "€94.99"
+            
+            },
+            {
+                "image": "products/manC.jpg",
+                "title": "man City kit",
+                "description": "Manchester City's moderne kit: hemelsblauw, Draag de kleuren van de Citizens . Manchester City FC, op weg naar grootsheid.",
+                "price": "€94.99"
+                
+            },
+            {
+                "image": "products/manu.jpg",
+                "title": "man united kit",
+                "description": "Manchester United's emblematische kit: rood, symbool van glorie en traditie. Draag de Red Devils met trots. Manchester United FC.",
+                "price": "€94.99"
+                
+            },
+            {
+                "image": "products/tot.jpg",
+                "title": "tottenham kit",
+                "description": "Tottenham's iconische kit: wit en blauw, vol passie en vastberadenheid. Draag met trots het embleem van Tottenham Hotspur FC.",
+                "price": "€94.99"
+                
+            }
+        
+        
+    ],
+    "two": [{
+		"image": "products/ajax.jpg",
+		"title": "ajax",
+		"description": "Ajax' klassieke kit: rood en wit, een symbool van Amsterdamse trots en glorie. Draag met trots het embleem van AFC Ajax. Voor altijd Ajacied.",
+		"price": "€94.99"
+		
+	},
+    {
+		"image": "products/az.jpg",
+		"title": "az",
+		"description": "AZ's dynamische kit: rood en wit, een weerspiegeling van Alkmaarse strijd. Draag met trots het tenue van AZ Alkmaar. Voor altijd AZ!",
+		"price": "€79.99"
+		
+	},
+    {
+		"image": "products/psv.jpg",
+		"title": "psv",
+		"description": "PSV's legendarische kit: rood en wit, belichaamt de Eindhovense passie en triomf. Draag met trots het embleem van PSV Eindhoven. Voor altijd PSV!",
+		"price": "€94.99"
+		
+	},
+    {
+		"image": "products/fey.jpg",
+		"title": "feynoord",
+		"description": "Feyenoord's iconische kit: rood en wit, een symbool van Rotterdamse trots en strijd. Draag met trots het embleem van Feyenoord Rotterdam. Voor altijd Feyenoorder!",
+		"price": "€94.99"
+		
+	},
+    {
+		"image": "products/twe.jpg",
+		"title": "twente",
+		"description": "FC Twente's herkenbare kit: rood en wit, vertegenwoordigt de Twentse passie en vastberadenheid. Draag met trots het embleem van FC Twente. Voor altijd Tukker!",
+		"price": "€79.99"
+		
+	},{
+		"image": "products/utr.jpg",
+		"title": "utrecht",
+		"description": "FC Utrecht's kenmerkende kit: rood en wit, belichaamt de Utrechtse strijd en trots. Draag met trots het embleem van FC Utrecht. Voor altijd een Utrechter!",
+		"price": "€79.99"
+		
+	}
+
+    ],"three":[
+        {
+        "image": "img/acmil.jpg",
+        "title": "AC Milan",
+        "description": "AC Milan's legendarische kit: rood en zwart, een symbool van Milanese passie en glorie. Draag met trots het embleem van AC Milan. Rossoneri voor het leven.",
+        "price": "€94,95"
+        
+    },
+    {
+        "image": "img/inter.jpg",
+        "title": "Inter Milan",
+        "description": "Inter Milan's iconische kit: blauw en zwart, een symbool van Milaanse passie en triomf. Draag met trots het embleem van Inter Milan. Nerazzurri voor altijd.",
+        "price": "€94,99"
+        
+    },
+    {
+        "image": "img/juv.jpg",
+        "title": "Juventus FC",
+        "description": "Juventus' kenmerkende kit: zwart en wit, belichaamt de Turijnse glorie en vastberadenheid. Draag met trots het embleem van Juventus FC. Bianconeri voor het leven.",
+        "price": "€94,99"
+        
+    },
+    {
+        "image": "img/nap.jpg",
+        "title": "SSC Napoli",
+        "description": "Napoli's kenmerkende kit: blauw en wit, een symbool van Zuid-Italiaanse passie en vastberadenheid. Draag met trots het embleem van SSC Napoli. Forza Napoli!",
+        "price": "€130,00"
+        
+    },
+    {
+        "image": "img/rom.jpg",
+        "title": "AS Roma",
+        "description": "AS Roma's iconische kit: rood en geel, belichaamt de Romeinse trots en passie. Draag met trots het rood en geel van AS Roma. Giallorossi voor altijd.",
+        "price": "€90,00"
+        
+    },
+    {
+        "image": "img/ata.jpg",
+        "title": "Atalanta Bergamo",
+        "description": "Atalanta's herkenbare kit: zwart en blauw, symbool van Bergamaskische vastberadenheid en passie. Draag met trots het embleem van Atalanta Bergamo. Forza Atalanta!",
+        "price": "€73,91"
+        
+    }
+    ]
+}
